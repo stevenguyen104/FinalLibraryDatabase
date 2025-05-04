@@ -12,3 +12,5 @@ Authors to Books: one to many relationship, Members to BorrowRecords: one to man
 User Roles:
 Librarian (Admin): Add/edit/delete books, Manage borrow/return records, View/process book requests, Add/edit/delete member
 Member (Regular User): Browse available books, Borrow and return books, Request new books
+
+![Alt Text](images/Screenshot 2025-05-04 144222.png)
